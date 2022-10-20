@@ -1,5 +1,5 @@
 INSTALLATION:
-Download and unpack cobb_jaydon.assignment-1.05.tar.gz files to directory
+Download and unpack PokemonC.tar.gz files to directory
 CD into directory
 Run "make"
 Run ./poke327
